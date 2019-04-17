@@ -10,7 +10,7 @@ package proyectocuadrodeturno;
  * @author Fabian Aya
  */
 public class ProyectoCuadrodeTurno {
-
+int a ;
     /**
      * @param args the command line arguments
      */
